@@ -10,6 +10,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.16.6"
+    "@astrojs/db": "^0.14.2",
+    "astro": "^4.16.6",
+    "sqlite3": "^5.1.7"
   }
 }
